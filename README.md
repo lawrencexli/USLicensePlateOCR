@@ -15,7 +15,7 @@ Note that this dataset contains only license plate text labels without bounding 
 ## Accuracy
 
 * Without fine-tuning: 81.50%
-* With fine-tuning: 84.58%
+* With fine-tuning: 84.18%
 
 ## About the Repository
 
