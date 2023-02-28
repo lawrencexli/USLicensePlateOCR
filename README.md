@@ -14,7 +14,7 @@ Note that this dataset contains only license plate text labels without bounding 
 
 ## Accuracy
 
-| Evaluation Set | 746 Images  | 146 Val Images |
+| Evaluation Set | All 746 Images  | 146 Val Images |
 | ----------- | ----------- | -------------- |
 | DB+CRNN no fine-tuning      | 81.23%      | 82.88%         |
 | CRNN before fine-tuning   | 49.06%      | 39.73%         |
