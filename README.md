@@ -17,8 +17,8 @@ Note that this dataset contains only license plate text labels without bounding 
 | Evaluation Set | All 746 Images  | 146 Val Images |
 | ----------- | ----------- | -------------- |
 | DB+CRNN no fine-tuning      | 81.23%      | 82.88%         |
-| CRNN before fine-tuning   | 49.06%      | 39.73%         |
-| CRNN after fine-tuning   | 98.79%      | 93.84%         |
+| CRNN no fine-tuning   | 49.06%      | 39.73%         |
+| CRNN with fine-tuning   | 98.79%      | 93.84%         |
 
 ## About the Repository
 
