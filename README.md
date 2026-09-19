@@ -38,7 +38,7 @@ The following instructions are based on Linux and MacOS system. Not suitable for
 
 ### Repository structure
 
-* `fine_tuned_rec_model/rec`: contains the test results txt file from fine-tuned text recognition model for US license plate. My fine tuned model for US license plate `v3_en_mobile` is available here: https://drive.google.com/drive/folders/1JS5SEloMik3JdPrjR6t9q2rbKesfdICN?usp=sharing.
+* `fine_tuned_rec_model/rec`: contains the test results txt file from fine-tuned text recognition model for US license plate. My fine tuned model for US license plate `v3_en_mobile` is available here: [https://drive.google.com/drive/folders/1JS5SEloMik3JdPrjR6t9q2rbKesfdICN?usp=sharing](https://drive.google.com/drive/folders/1AB9mrxcRn8Ztgr2-QzMkGMoU91RAo-lG?usp=sharing).
 * `train_data`: contains US license plate image data from OpenALPR benchmark dataset, with `data_preprocess.ipynb` that can prepare the train test split ready for PaddleOCR fine-tuning process.
 * Other files are jupyter notebook files that user can explore and run, see `Running` section below.
  
